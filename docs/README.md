@@ -239,7 +239,7 @@ O ciclo de vida do pedido é modelado por estados concretos (`PedidoAbertoState`
 ![diagrama-sequencia2.jpg](imagens/diagrama-sequencia2.jpg)
 ![diagrama-sequencia3.jpg](imagens/diagrama-sequencia3.jpg)
 
-### Minha contribuição 
+### MINHA CONTRIBUIÇÃO 
 
 Implementação dos padrões Strategy e Singleton 
 Organização do arquivo README 
