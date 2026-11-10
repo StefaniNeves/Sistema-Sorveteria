@@ -1,4 +1,4 @@
-﻿# Sistema de Gerenciamento de Sorveteria
+﻿# Sistema de Gerenciamento de Sorveteria ( Trabalho desenvolvido em equipe) 
 
 > Projeto desenvolvido para a disciplina de **Análise e Projeto de Sistemas**, com foco na aplicação prática de Padrões de Projeto (Design Patterns) e conceitos de Programação Orientada a Objetos.
 
@@ -238,3 +238,8 @@ O ciclo de vida do pedido é modelado por estados concretos (`PedidoAbertoState`
 ![diagrama-sequencia1.jpg](imagens/diagrama-sequencia1.jpg)
 ![diagrama-sequencia2.jpg](imagens/diagrama-sequencia2.jpg)
 ![diagrama-sequencia3.jpg](imagens/diagrama-sequencia3.jpg)
+
+### Minha contribuição 
+
+Implementação dos padrões Strategy e Singleton 
+Organização do arquivo README 
