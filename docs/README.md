@@ -239,7 +239,35 @@ O ciclo de vida do pedido é modelado por estados concretos (`PedidoAbertoState`
 ![diagrama-sequencia2.jpg](imagens/diagrama-sequencia2.jpg)
 ![diagrama-sequencia3.jpg](imagens/diagrama-sequencia3.jpg)
 
-### MINHA CONTRIBUIÇÃO 
 
-Implementação dos padrões Strategy e Singleton 
-Organização do arquivo README 
+## Minha Contribuição — Stéfani Rodrigues Neves
+
+Participei do desenvolvimento do Sistema de Gerenciamento de Sorveteria, contribuindo com a implementação de padrões de projeto e atividades de documentação do sistema.
+
+Minhas principais contribuições foram:
+
+### 1. Implementação do padrão Strategy
+- Participação no desenvolvimento da estrutura de estratégias para processamento de pagamentos.
+- Implementação das classes relacionadas às formas de pagamento: Pix, Cartão e Dinheiro.
+- Utilização da interface `PagamentoStrategy`, permitindo diferentes formas de pagamento de maneira flexível e organizada.
+
+### 2. Implementação do padrão Singleton
+- Desenvolvimento de componentes utilizando o padrão Singleton.
+- Participação na implementação de instâncias únicas para gerenciamento de recursos do sistema.
+- Aplicação do padrão para evitar a criação desnecessária de múltiplas instâncias de determinados componentes.
+
+### 3. Documentação do projeto
+- Colaboração na elaboração e organização do arquivo `README.md`.
+- Participação na descrição das funcionalidades e tecnologias utilizadas.
+- Colaboração na documentação dos padrões de projeto aplicados.
+
+### Tecnologias e conceitos trabalhados
+- Java;
+- Programação Orientada a Objetos (POO);
+- Design Patterns;
+- Strategy;
+- Singleton;
+- Documentação técnica.
+
+Minha participação contribuiu para o desenvolvimento da arquitetura do sistema, a aplicação de padrões de projeto e a documentação do trabalho realizado em equipe.
+ 
