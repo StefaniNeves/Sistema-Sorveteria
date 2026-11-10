@@ -1,4 +1,4 @@
-﻿# Sistema de Gerenciamento de Sorveteria ( Trabalho desenvolvido em equipe) 
+﻿# Sistema de Gerenciamento de Sorveteria ( Trabalho desenvolvido em equipe: Stéfani,Luana,Paula,Rayssa e Giovanna ) 
 
 > Projeto desenvolvido para a disciplina de **Análise e Projeto de Sistemas**, com foco na aplicação prática de Padrões de Projeto (Design Patterns) e conceitos de Programação Orientada a Objetos.
 
